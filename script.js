@@ -85,12 +85,12 @@ const questions = [
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'What is the full meaning of  H.T.M.L ?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'HyperText Mockup Language', correct: true },
+      { text: 'HyperText Made languange', correct: false },
+      { text: 'Hide The Mode Language', correct: false },
+      { text: 'Home Made Language', correct: false }
     ]
   },
   {
